@@ -55,7 +55,7 @@ npm run start
 - [React HTML to PDF](https://www.npmjs.com/package/react-html-to-pdf)
 
 ### Authors
-- Jaseir Tech (dataanalytivguru@gmail.com)
+- Jaseir Tech (dataanalyticguru@gmail.com)
 
 ### Contributions
 - We welcome contributions to our website. If you would like to contribute, please submit a pull request on our Github repository.
